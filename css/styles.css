@@ -23,7 +23,8 @@ h2{
 
 h3{
     font-family: 'Montserrat', sans-serif;
-    color: #11999e;
+    color: #11999E;
+    font-size: 1.5rem;
 }
 
 .pro{
@@ -43,7 +44,7 @@ h3{
 }
 
 .mountain{
-    margin-top: 50px;
+    margin-top: 8%;
 }
 
 .top-container{
@@ -54,7 +55,40 @@ h3{
 }
 
 .middle-container{
-    
+    margin-top: 50px;
+        
+}
+
+.skill-row{ 
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+
+.profile-img{
+    width: 15%;
+    height: 15%;
+    margin: 0 auto 0 auto;
+}
+
+
+.interpret-img{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer-img{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row p, h3{
+    text-align: left;
+    line-height: 2;
 }
 
 .bottom-container{
